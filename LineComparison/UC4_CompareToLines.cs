@@ -24,6 +24,5 @@ namespace LineComparison
                 Console.WriteLine("Length of first line is less than length of second line");
             }
         }
-
     }
 }
